@@ -1,4 +1,4 @@
-name: Compile-activity1-Linux
+name: Compile-Embeddedproject
 
 on:
   push:
@@ -16,4 +16,4 @@ jobs:
     - name: get_avr-gcc
       run: sudo apt-get install gcc-avr binutils-avr avr-libc
     - name: Compile
-      run: make -C activity1/ all
+      run: make
