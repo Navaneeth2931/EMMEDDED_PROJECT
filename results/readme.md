@@ -1,9 +1,9 @@
-# LED
+## LED
 |ON | OFF |
 |:--:|:--:|
 |![ON](https://github.com/261705/EMMEDDED_PROJECT/blob/main/results/LED_ON.JPG)|![OFF](https://github.com/261705/EMMEDDED_PROJECT/blob/main/results/LED_OFF.JPG)|
 
-# OUTPUTS
+## OUTPUTS
 |DIGITAL ADC VALUE|OUTPUT PWM|OUTPUT USART|
 |:--:|:--:|:--:|
 |0-200|![20%](https://github.com/261705/EMMEDDED_PROJECT/blob/main/results/20%25dutycycle.JPG)|![20degrees](https://github.com/261705/EMMEDDED_PROJECT/blob/main/results/20degrees.JPG)|
