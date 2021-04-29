@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1619668231 source:d:\ltts\practice\embedded\emb_project\activity1.c
+	"activity1.h"
+	<avr/io.h>
+	<util/delay.h>
+
+1619668217 d:\ltts\practice\embedded\emb_project\activity1.h
+	<avr/io.h>
+	<util/delay.h>
+
+1619669156 source:d:\ltts\practice\embedded\emb_project\activity4.c
+	<avr/io.h>
+	<util/delay.h>
+	"activity4.h"
+
+1619669281 d:\ltts\practice\embedded\emb_project\activity4.h
+	<avr/io.h>
+	<util/delay.h>
+
+1619666721 source:d:\ltts\practice\embedded\emb_project\fuse.c
+	<avr/io.h>
+
+1619669174 source:d:\ltts\practice\embedded\emb_project\activity3.c
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+	"activity3.h"
+
+1619671580 d:\ltts\practice\embedded\emb_project\activity3.h
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+
+1619671593 source:d:\ltts\practice\embedded\emb_project\activity2.c
+	"activity2.h"
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1619668923 d:\ltts\practice\embedded\emb_project\activity2.h
+	<avr/io.h>
+	<avr/interrupt.h>
+
